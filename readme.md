@@ -50,7 +50,7 @@
 
 ## Features
 
-- [X] 🤩 Page Transitions, component-based (with no-js support)
+- [X] 🤩 Page Transitions, component-based (with no-js support) -1
 - [X] 👮‍♂️ `IntersectionObserver`, component-based (with polyfill)
 - [X] 🌿 React Context for global UI state, with SSR
 - [X] 💅 [`styled-components`](https://www.styled-components.com/) v4
